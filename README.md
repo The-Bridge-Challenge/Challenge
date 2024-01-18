@@ -10,7 +10,7 @@ Bienvenido a la emocionante travesía de las Tripulaciones en The Bridge. A lo l
 Descubre las tecnologías y herramientas utilizadas en cada vertical en la [Guía de Verticales](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD/blob/main/README_Dependencies/Guia_Verticales_Rata.md). ¡No te pierdas la versión extendida para los verdaderos "ratas"! 🐀
 
 ### **Calendario de Actividades 📅**
-Consulta el [Calendario de Ciberseguridad]((https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD/blob/main/README_Dependencies/Calendario.md)) para conocer la planificación detallada de tareas y responsabilidades. ⏳
+Consulta el [Calendario de Ciberseguridad](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD/blob/main/README_Dependencies/Calendario.md) para conocer la planificación detallada de tareas y responsabilidades. ⏳
 
 ### **Contexto y Análisis de Riesgos 🕵️**
 - Analizamos el contexto funcional de la aplicación identificando elementos críticos y susceptibles a ataques.
