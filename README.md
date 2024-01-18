@@ -146,3 +146,24 @@ Visita [este enlace](https://cloudbuilds-client-folgybvrpq-ew.a.run.app/) para a
 - Seguimos un proceso detallado que puedes explorar [aquí en Figma](https://www.figma.com/file/jPe0uobZaYALSOcjr8AGkm/Desaf%C3%ADo-Tripulaciones---Grupo-4?type=design&node-id=0%3A1&mode=design&t=49I7qr5lafqLVkFq-1).
 
 Este proyecto integrado es el resultado de la colaboración y la sinergia entre las distintas verticales. Cada una aportó su experiencia única para construir un producto completo y efectivo. ¡Esperamos que disfrutes explorando nuestro trabajo! 🚀
+
+# Colaboradores
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/christianmendez1501">
+          <img src=https://avatars.githubusercontent.com/u/143126480?s%253D400%2526u%253D9ded5cfc09f8bb2bc6a97a7992cab9b2995bc616%2526v%253D4) width="100px;" alt=""/>
+          <br/>
+          <sub>
+            <b>Christian Mendez</b>
+          </sub>
+        </a>
+        <br/>
+        <a href="https://github.com/christianmendez1501" title="GitHub">📖</a> 
+        <a href="https://github.com/christianmendez1501" title="GitHub">💻</a>
+      </td>
+    </tr>
+  </table>
+</p>
