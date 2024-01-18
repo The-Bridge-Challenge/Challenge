@@ -21,20 +21,20 @@ Consulta el [Calendario de Ciberseguridad](https://github.com/The-Bridge-Challen
 - Diseñamos una infraestructura de TI escalable y segura.
 
 ### **OWASP Top 10 y Pruebas de Seguridad 🌐**
-Utilizamos la metodología del OWASP Top 10 para abordar las principales vulnerabilidades web. ¡Consulta nuestra [Guía de Ciberseguridad OWASP Top 10](README_Dependencies/OWASP10_Guide.md) para detalles aplicados a nuestro proyecto!
+Utilizamos la metodología del OWASP Top 10 para abordar las principales vulnerabilidades web. ¡Consulta nuestra [Guía de Ciberseguridad OWASP Top 10](https://github.com/The-Bridge-Challenge/CYBERSEGURIDAD/blob/main/README_Dependencies/OWASP10_Guide.md) para detalles aplicados a nuestro proyecto!
 
 Ejecutamos pruebas específicas de seguridad, incluyendo:
-- Information Gathering 🕵️
-- Configuration and Deployment Management Testing 🔧
-- Identity Management Testing 👤
-- Authentication Testing 🔑
-- Authorization Testing 🔒
-- Session Management Testing ⏲️
-- Input Validation Testing ✅
-- Error Handling Testing 🚫
-- Testing for Weak Cryptography 🔓
-- Business Logic Testing 💼
-- Client-side Testing 💻
+> - Information Gathering 🕵️
+> - Configuration and Deployment Management Testing 🔧
+> - Identity Management Testing 👤
+> - Authentication Testing 🔑
+> - Authorization Testing 🔒
+> - Session Management Testing ⏲️
+> - Input Validation Testing ✅
+> - Error Handling Testing 🚫
+> - Testing for Weak Cryptography 🔓
+> - Business Logic Testing 💼
+> - Client-side Testing 💻
 
 ### **Autenticación y Control de Acceso 🚪**
 Implementamos autenticación multifactor y robustos controles de acceso.
@@ -49,6 +49,7 @@ Establecimos una estrategia de backup con periodos de conservación definidos.
 ### **Documentación y Mejora Continua 📝**
 - Documentamos políticas y procedimientos de seguridad.
 - Mantenemos un enfoque de mejora continua en la seguridad del proyecto.
+  
 ## **Data Science 📊**
 
 ### **Alcance del Proyecto 🎯**
@@ -59,13 +60,13 @@ Establecimos una estrategia de backup con periodos de conservación definidos.
 
 ### **Fases del Proyecto 📄**
 - Establecimos un modelo lógico 🧠 para conectar las tablas de la BBDD.
-- Creación de tablas mediante queries SQL 💻. ¡Mira el [archivo de queries](./BBDD/notebooks/queries_SQL.ipynb) para detalles!
+- Creación de tablas mediante queries SQL 💻. ¡Mira el [archivo de queries](https://github.com/The-Bridge-Challenge/DATA-SCIENCE/blob/main/BBDD/notebooks/queries_SQL.ipynb) para detalles!
 
 ### **Diagrama Entidad-Relación 🌐**
 - Desarrollamos un diagrama E-R 📈 para visualizar la estructura de la base de datos.
 
 ### **Web Scraping de Candela 🕸️**
-- Implementamos un [archivo de aplicación](./webscrapping/app/src/app.py) para realizar Web Scraping.
+- Implementamos un [archivo de aplicación](https://github.com/The-Bridge-Challenge/DATA-SCIENCE/blob/main/webscrapping/app/src/app.py) para realizar Web Scraping.
 - Automatizamos la entrada de datos en la tabla de personalización de precios 💲.
 
 ## **Fullstack 🌐**
