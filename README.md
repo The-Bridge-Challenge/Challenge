@@ -154,7 +154,7 @@ Este proyecto integrado es el resultado de la colaboración y la sinergia entre 
     <tr>
       <td align="center">
         <a href="https://github.com/christianmendez1501">
-          <img src=https://avatars.githubusercontent.com/u/143126480?s%253D400%2526u%253D9ded5cfc09f8bb2bc6a97a7992cab9b2995bc616%2526v%253D4) width="100px;" alt=""/>
+          <img src=https://avatars.githubusercontent.com/u/143126480?s%253D400%2526u%253D9ded5cfc09f8bb2bc6a97a7992cab9b2995bc616%2526v%253D4)" width="100px;" alt=""/>
           <br/>
           <sub>
             <b>Christian Mendez</b>
@@ -164,6 +164,19 @@ Este proyecto integrado es el resultado de la colaboración y la sinergia entre 
         <a href="https://github.com/christianmendez1501" title="GitHub">📖</a> 
         <a href="https://github.com/christianmendez1501" title="GitHub">💻</a>
       </td>
+      <td align="center">
+        <a href="https://github.com/Xavi-san">
+          <img src=https://avatars.githubusercontent.com/u/155076723?v%253D4 width="100px;" alt=""/>
+          <br/>
+          <sub>
+            <b>Xavi San</b>
+          </sub>
+        </a>
+        <br/>
+        <a href="https://github.com/Xavi-san" title="GitHub">📖</a> 
+        <a href="https://github.com/Xavi-san" title="GitHub">💻</a>
+      </td>
     </tr>
   </table>
 </p>
+
