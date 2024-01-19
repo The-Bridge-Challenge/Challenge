@@ -1,5 +1,7 @@
 # 🚀 **Desafío de Tripulaciones - Proyecto Integrado**
 
+![several](img/several.gif)
+
 ## **Introducción** 🌟
 
 Bienvenido a la emocionante travesía de las Tripulaciones en The Bridge. A lo largo de este proyecto integrado, las distintas verticales - **Ciberseguridad** 🛡️, **Data Science** 📊, **Fullstack** 💻, **Marketing** 📈 y **UX/UI** 🎨 - han colaborado intensamente para crear un producto integral que aborda desafíos desde múltiples perspectivas.
