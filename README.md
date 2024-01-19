@@ -1,6 +1,6 @@
 # 🚀 **Desafío de Tripulaciones - Proyecto Integrado**
 
-![several](img/several.gif)
+![several](img/several123.gif)
 
 ## **Introducción** 🌟
 
